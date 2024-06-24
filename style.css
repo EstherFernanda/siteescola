@@ -1,0 +1,67 @@
+import url('https://fonts.googleapis.com/css?family-Chakra+Petch: ight@400, 700&display-swaр");
+
+troot cor-de-fundo: #161618; verde: #6FFF57; branco: #FFFFFF; botao-ativo: #34375E;
+
+-butao-inativo: rgba(50, 55, 94, 0.5); texto-fundo: rgba(58, 55, 94, 0.3);) body { background-color: var(-cor-de-fundo); color: var(--branco);
+
+font-family: "Chakra Petch', sans-serif;)
+
+conteudo-principal (display: flex; flex-direction: colum; justify-content: center; align-Items: center; max-width: 1200px; width: 100%; margin: 0 auto;
+
+titulo-principal (text-align: left; width: 100%; font-size: 32px;
+
+titulo-principal span (color: var(verde))
+
+botao (font-family: Crakra Petch», sans-serif; background-color: var(--botao-inativo); color: var(--brance); display: flex; justify-content: center; padding: leng
+
+align-items: center; width: 100%; border-bottom: 4px solid var(botao-ativo);
+
+font-size: 18ρικ
+
+border-top: none; )
+
+botoes (display: block;)
+
+botao.ativo hackground-color: var(--botao-ativo);
+
+border-bottom: 4px solid var (verde);
+
+19
+
+aba conteudo
+
+20
+
+display: none;
+
+21
+
+22
+
+aba-conteudo-titulo-principal(
+
+23
+
+font-size: 28ря
+
+24 text-align: center;)
+
+29 aba-conteudo-titulo-secundarto
+
+26
+
+27 color: ur-verde);
+
+20 ext-transform: uppercase;)
+
+29
+
+30 @media screen and (min-width: 768px) (botoes (display: flex;))
+
+31
+
+30
+
+text-align: center;
+
+botan:first-child {border-radius: 40px 0 0 0;) botao:last-child { border-radius: 640px 0 0;)
